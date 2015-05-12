@@ -22,5 +22,7 @@
 
 * **[并行编程(Parallel)](Parallel.md)**
 
-## [更开放的平台(Open)](Open.md)
+## 更开放的平台
+
+* **[Open Technologies](Open.md)**
 
