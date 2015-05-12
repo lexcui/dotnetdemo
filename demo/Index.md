@@ -2,7 +2,7 @@
 
 ##一切从委托开始
 
-* **委托(Delegate)**
+* **[委托(Delegate)](Delegate.md)**
 
 * **泛型(Generic)**
 
