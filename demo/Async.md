@@ -6,5 +6,4 @@
  - TAP
 
 * 关键字
- - async
- - await
+ - async/await
