@@ -1,0 +1,6 @@
+C:\work\workspace\github\dotnetdemo\demo\code\DotNetDemo\DotNetDemo\obj\Debug\DotNetDemo.csprojResolveAssemblyReference.cache
+C:\work\workspace\github\dotnetdemo\demo\code\DotNetDemo\DotNetDemo\bin\Debug\DotNetDemo.exe
+C:\work\workspace\github\dotnetdemo\demo\code\DotNetDemo\DotNetDemo\bin\Debug\DotNetDemo.pdb
+C:\work\workspace\github\dotnetdemo\demo\code\DotNetDemo\DotNetDemo\obj\Debug\DotNetDemo.exe
+C:\work\workspace\github\dotnetdemo\demo\code\DotNetDemo\DotNetDemo\obj\Debug\DotNetDemo.pdb
+C:\work\workspace\github\dotnetdemo\demo\code\DotNetDemo\DotNetDemo\bin\Debug\DotNetDemo.exe.config
