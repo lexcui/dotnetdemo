@@ -22,6 +22,10 @@
 
 * **[并行编程(Parallel)](Parallel.md)**
 
+* **命名参数 可选参数**
+
+* **局部类(Partial)**
+
 ## 更开放的平台
 
 * **[Open Technologies](Open.md)**
